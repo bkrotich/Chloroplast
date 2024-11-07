@@ -1,0 +1,30 @@
+2024-11-02 10:06:12,793 NanoPlot 1.44.0 started with arguments Namespace(threads=4, verbose=False, store=False, raw=False, huge=False, outdir='qc_report', no_static=False, prefix='', tsv_stats=False, only_report=False, info_in_report=False, maxlength=None, minlength=None, drop_outliers=False, downsample=None, loglength=False, percentqual=False, alength=False, minqual=None, runtime_until=None, readtype='1D', barcoded=False, no_supplementary=False, color='#4CB391', colormap='Greens', format=['png'], plots=['kde', 'dot'], legacy=None, listcolors=False, listcolormaps=False, no_N50=False, N50=False, title=None, font_scale=1, dpi=100, hide_stats=False, fastq=['fastq/nanopore.fastq'], fasta=None, fastq_rich=None, fastq_minimal=None, summary=None, bam=None, ubam=None, cram=None, pickle=None, feather=None, path='qc_report/')
+2024-11-02 10:06:12,794 Python version is: 3.12.7 | packaged by conda-forge | (main, Oct  4 2024, 16:05:46) [GCC 13.3.0]
+2024-11-02 10:06:12,852 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-02 10:06:13,702 Reduced DataFrame memory usage from 0.030643463134765625Mb to 0.030643463134765625Mb
+2024-11-02 10:06:13,716 Nanoget: Gathered all metrics of 2000 reads
+2024-11-02 10:06:13,727 Calculated statistics
+2024-11-02 10:06:13,728 Using sequenced read lengths for plotting.
+2024-11-02 10:06:13,730 NanoPlot:  Valid color #4CB391.
+2024-11-02 10:06:13,731 NanoPlot:  Valid colormap Greens.
+2024-11-02 10:06:13,731 NanoPlot:  Creating length plots for Read length.
+2024-11-02 10:06:13,732 NanoPlot:  Using 2000 reads maximum of 27779bp.
+2024-11-02 10:06:14,169 No static plots are saved due to some kaleido problem:
+2024-11-02 10:06:14,169 Transform failed with error code 1: Failed to serialize document: Uncaught
+2024-11-02 10:06:14,450 No static plots are saved due to some kaleido problem:
+2024-11-02 10:06:14,450 Transform failed with error code 1: Failed to serialize document: Uncaught
+2024-11-02 10:06:14,843 No static plots are saved due to some kaleido problem:
+2024-11-02 10:06:14,843 Transform failed with error code 1: Failed to serialize document: Uncaught
+2024-11-02 10:06:15,116 No static plots are saved due to some kaleido problem:
+2024-11-02 10:06:15,117 Transform failed with error code 1: Failed to serialize document: Uncaught
+2024-11-02 10:06:17,779 No static plots are saved due to some kaleido problem:
+2024-11-02 10:06:17,780 Transform failed with error code 1: Failed to serialize document: Uncaught
+2024-11-02 10:06:17,780 Created length plots
+2024-11-02 10:06:17,780 NanoPlot: Creating Read lengths vs Average read quality plots using 2000 reads.
+2024-11-02 10:06:18,223 No static plots are saved due to some kaleido problem:
+2024-11-02 10:06:18,223 Transform failed with error code 1: Failed to serialize document: Uncaught
+2024-11-02 10:06:18,568 No static plots are saved due to some kaleido problem:
+2024-11-02 10:06:18,568 Transform failed with error code 1: Failed to serialize document: Uncaught
+2024-11-02 10:06:18,568 Created LengthvsQual plot
+2024-11-02 10:06:18,568 Writing html report.
+2024-11-02 10:06:18,622 Finished!

@@ -1,0 +1,26 @@
+2024-11-02 09:50:37,376 NanoPlot 1.44.0 started with arguments Namespace(threads=4, verbose=False, store=False, raw=False, huge=False, outdir='qc_report', no_static=False, prefix='', tsv_stats=False, only_report=False, info_in_report=False, maxlength=None, minlength=None, drop_outliers=False, downsample=None, loglength=False, percentqual=False, alength=False, minqual=None, runtime_until=None, readtype='1D', barcoded=False, no_supplementary=False, color='#4CB391', colormap='Greens', format=['png'], plots=['kde', 'dot'], legacy=None, listcolors=False, listcolormaps=False, no_N50=False, N50=False, title=None, font_scale=1, dpi=100, hide_stats=False, fastq=['fastq/nanopore.fastq'], fasta=None, fastq_rich=None, fastq_minimal=None, summary=None, bam=None, ubam=None, cram=None, pickle=None, feather=None, path='qc_report/')
+2024-11-02 09:50:37,376 Python version is: 3.12.7 | packaged by conda-forge | (main, Oct  4 2024, 16:05:46) [GCC 13.3.0]
+2024-11-02 09:50:37,423 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-02 09:50:38,245 Reduced DataFrame memory usage from 0.030643463134765625Mb to 0.030643463134765625Mb
+2024-11-02 09:50:38,257 Nanoget: Gathered all metrics of 2000 reads
+2024-11-02 09:50:38,269 Calculated statistics
+2024-11-02 09:50:38,270 Using sequenced read lengths for plotting.
+2024-11-02 09:50:38,271 NanoPlot:  Valid color #4CB391.
+2024-11-02 09:50:38,272 NanoPlot:  Valid colormap Greens.
+2024-11-02 09:50:38,272 NanoPlot:  Creating length plots for Read length.
+2024-11-02 09:50:38,272 NanoPlot:  Using 2000 reads maximum of 27779bp.
+2024-11-02 09:50:38,667 No static plots are saved due to some kaleido problem:
+2024-11-02 09:50:38,667 Transform failed with error code 1: Failed to serialize document: Uncaught
+2024-11-02 09:50:38,976 No static plots are saved due to some kaleido problem:
+2024-11-02 09:50:38,976 Transform failed with error code 1: Failed to serialize document: Uncaught
+2024-11-02 09:50:59,779 NanoPlot 1.44.0 started with arguments Namespace(threads=4, verbose=False, store=False, raw=False, huge=False, outdir='qc_report', no_static=False, prefix='', tsv_stats=False, only_report=False, info_in_report=False, maxlength=None, minlength=None, drop_outliers=False, downsample=None, loglength=False, percentqual=False, alength=False, minqual=None, runtime_until=None, readtype='1D', barcoded=False, no_supplementary=False, color='#4CB391', colormap='Greens', format=['png'], plots=['kde', 'dot'], legacy=None, listcolors=False, listcolormaps=False, no_N50=False, N50=False, title=None, font_scale=1, dpi=100, hide_stats=False, fastq=['fastq/nanopore.fastq'], fasta=None, fastq_rich=None, fastq_minimal=None, summary=None, bam=None, ubam=None, cram=None, pickle=None, feather=None, path='qc_report/')
+2024-11-02 09:50:59,779 Python version is: 3.12.7 | packaged by conda-forge | (main, Oct  4 2024, 16:05:46) [GCC 13.3.0]
+2024-11-02 09:50:59,825 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-02 09:51:00,629 Reduced DataFrame memory usage from 0.030643463134765625Mb to 0.030643463134765625Mb
+2024-11-02 09:51:00,640 Nanoget: Gathered all metrics of 2000 reads
+2024-11-02 09:51:00,651 Calculated statistics
+2024-11-02 09:51:00,652 Using sequenced read lengths for plotting.
+2024-11-02 09:51:00,653 NanoPlot:  Valid color #4CB391.
+2024-11-02 09:51:00,654 NanoPlot:  Valid colormap Greens.
+2024-11-02 09:51:00,654 NanoPlot:  Creating length plots for Read length.
+2024-11-02 09:51:00,654 NanoPlot:  Using 2000 reads maximum of 27779bp.
